@@ -1,0 +1,2337 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.wireframe-lembaga-7PK {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.wireframe-lembaga-7PK .auto-group-k6vk-ZFK {
+  box-sizing: border-box;
+  padding: 1.4rem 3.4rem 1.2rem 3.4rem;
+  width: 100%;
+  height: 11.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #1796f0;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .auto-group-k6vk-ZFK .auto-group-xsr1-qVf {
+  margin: 2.7rem 4.3rem 2.7rem 0rem;
+  box-sizing: border-box;
+  padding: 1.8rem 0rem 1.7rem 0rem;
+  width: 5.7rem;
+  height: calc(100% - 5.4rem);
+  border-top: solid 0.3rem #000000;
+  border-bottom: solid 0.3rem #000000;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .auto-group-k6vk-ZFK .auto-group-xsr1-qVf .line-106-4dK {
+  width: 100%;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.wireframe-lembaga-7PK .auto-group-k6vk-ZFK .rectangle-104-WVK {
+  margin: 0rem 91.2rem 0.1rem 0rem;
+  width: 9rem;
+  height: 9.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .auto-group-k6vk-ZFK .skill-icons-instagram-jN5 {
+  margin: 0rem 3rem 1.3rem 0rem;
+  width: 4.9rem;
+  height: 5.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .auto-group-k6vk-ZFK .devicon-facebook-nbF {
+  margin: 0rem 3.11rem 1.4rem 0rem;
+  width: 4.9004rem;
+  height: 4.623rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .auto-group-k6vk-ZFK .devicon-linkedin-3XB {
+  margin: 0rem 2.91rem 1.2rem 0rem;
+  width: 4.4797rem;
+  height: 4.9563rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .auto-group-k6vk-ZFK .auto-group-ey8m-UMb {
+  margin-top: 1.8rem;
+  width: 3.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .auto-group-k6vk-ZFK .auto-group-ey8m-UMb .vector-aQd {
+  margin-bottom: 0.3969rem;
+  width: 3.7rem;
+  height: 4.6031rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .auto-group-k6vk-ZFK .auto-group-ey8m-UMb .material-symbols-search-H49 {
+  margin: 0rem 0.5rem 0rem 0.8rem;
+  width: calc(100% - 1.3rem);
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .frame-7-gc5 {
+  margin-bottom: 10rem;
+  width: 100%;
+  height: 68.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #bab9b9;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .frame-7-gc5 .lembaga-1-nf7 {
+  width: 144rem;
+  height: 81.6rem;
+  position: absolute;
+  left: 0;
+  top: -11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .frame-7-gc5 .rectangle-63-4sX {
+  width: 52.3rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 13.8rem;
+  top: 57.4rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3.7rem;
+}
+.wireframe-lembaga-7PK .frame-7-gc5 .lembaga-2C5 {
+  width: 17.9rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 31.05rem;
+  top: 60rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb {
+  width: 100%;
+  height: 644.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-113-NHs {
+  width: 144rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 569.7rem;
+  background-color: #8b77a6;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-114-4Ah {
+  width: 147.6rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 569.7rem;
+  background-color: #8b77a6;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-115-Xpy {
+  width: 147.6rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 486.5rem;
+  background-color: #1796f0;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-110-ePo {
+  width: 147.6rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 489.5rem;
+  background-color: #1796f0;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-111-kxd {
+  width: 144rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 408.5rem;
+  background-color: #8b77a6;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-112-3B3 {
+  width: 144rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 408.5rem;
+  background-color: #8b77a6;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-19-Ydb {
+  width: 49.2rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 417.7rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 58.2rem;
+  top: 417.7rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .konten-oC9 {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .konten-3Eu {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-19-gah {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 2.4rem;
+  top: -0.9rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-19-gah .konten-ag5 {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-19-gah .frame-19-oHw {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -0.1rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -2.2rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .pink-minimalist-infinity-love-logo-1-1-LhB {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .pink-minimalist-infinity-love-logo-1-2-dRP {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .rectangle-82-vfP {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .wisuda-398-lulusan-institut-teknologi-del-P3B {
+  width: 44rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .pada-hari-sabtu-23-september-2023-institut-teknologi-del-melaksanakan-wisuda-untuk-398-mahasiswa-sarjana-dan-diploma-turut-hadir-bapak-dr-honoris-causa-ir-airlangga-hartarto-mba-mmt-menteri-koordinator-bidang-perekonomian-republik-indonesia-bapak-rionald-silaban-direktorat-jendral-kekayaan-negara-bapak-jend-tni-purn-luhut-binsar-pandjaitan-mpa-ketua-pembina-yayasan-del-ibu-intan-simanjuntak-ketua-pengurus-yayasan-del-dan-tamu-undangan-lainnya-kegiatan-wisuda-ini-dilaksanakan-di-gedung-serba-guna-yayasan-del-dengan-tema-fostering-collaboration-and-innovation-towards-research-excellence-Qiy {
+  width: 68.5rem;
+  height: 40.9rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 22.3rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .rectangle-83-rcu {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 64.2rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .selengkapnya-jRo {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 65.4rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .mingcute-arrow-up-fill-ZQq {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 66.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .rectangle-84-SUd {
+  width: 75.4rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .ksu-it-del-didirikan-pada-2004-dengan-anggota-terdiri-dari-dosen-staf-karyawan-dan-mahasiswa-berfokus-pada-beberapa-usaha-usaha-toko-menjual-kebutuhan-bagi-anggota-dan-mahasiswa-menyediakan-jasa-printer-dan-memberikan-angsuran-untuk-barang-elektronik-seperti-laptop-mereka-juga-berkolaborasi-dengan-klub-usaha-mahasiswa-dalam-penjualan-barang-koperasi-pada-berbagai-acara-it-del-selain-itu-ksu-it-del-menjalankan-layanan-simpan-pinjam-untuk-anggotanya-dengan-pinjaman-berkisar-antara-rp-1000000-hingga-rp-20000000-pada-2013-aset-ksu-it-del-mencapai-rp-79658631-dan-laba-sekitar-rp-26933109-kepengurusan-ksu-it-del-periode-2013-2018-dipimpin-oleh-rudi-silalahi-sebagai-ketua-KHX {
+  width: 70.8rem;
+  height: 24.2rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 26.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .koperasi-C8M {
+  width: 9.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 18.7rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .rectangle-86-f1w {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 62.25rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .selengkapnya-Vmf {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 64.1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-20-iAh .frame-22-p7F .frame-19-7c9 .frame-11-tqB .mingcute-arrow-up-fill-9bK {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 35.6rem;
+  top: 65.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-21-KeD {
+  width: 49.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 5rem;
+  top: 417.7rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-21-KeD .pengunguman6-1-DUh {
+  width: 49.9rem;
+  height: 79.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-96-wZ7 {
+  width: 147.6rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 162.4rem;
+  background-color: #1796f0;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-108-QBo {
+  width: 147.6rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #1796f0;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-107-KJm {
+  width: 147.6rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 325.3rem;
+  background-color: #1796f0;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-96-pWR {
+  width: 144rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 82.6rem;
+  background-color: #8b77a6;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-105-fX3 {
+  width: 144rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 244.3rem;
+  background-color: #8b77a6;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-109-ZcR {
+  width: 144rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 244.3rem;
+  background-color: #8b77a6;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-7-GFw {
+  width: 49.2rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 92.1rem;
+  top: 7.5rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-7-GFw .pengunguman1-1-j9X {
+  width: 102.7rem;
+  height: 80.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 7.5rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pink-minimalist-infinity-love-logo-1-2-bg-PU9.png');
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .rectangle-82-DD7 {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .kuliah-umum-oleh-konsulat-amerika-serikat-terkait-suku-asli-amerika-serikat-hPB {
+  width: 64.6rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .pada-hari-jumat-24-november-2023-institut-teknologi-del-menerima-kunjungan-dari-ibu-kristy-mordhorts-konsulat-amerika-serikat-di-medan-kunjungan-ini-disambut-baik-oleh-it-del-yang-diwakili-oleh-bapak-dr-johannes-harungguan-sianipar-st-mt-wakil-rektor-i-bidang-akademik-dan-kemahasiswaan-kami-sangat-senang-atas-kehadiran-ibu-disini-untuk-sharing-kepada-mahasiswa-kami-dengan-partisipasi-mahasiswa-juga-kami-berharap-kegiatan-ini-berjalan-dengan-baik-ujar-beliau-uEM {
+  width: 68.7rem;
+  height: 32.7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 27.2rem;
+  font-size: 2.7rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .rectangle-83-4ey {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.1rem;
+  top: 62.4rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .selengkapnya-8uj {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 64rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .mingcute-arrow-up-fill-kw7 {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 37.2rem;
+  top: 64.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -0.1rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .konten-K73 {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-19-weD {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 2.4rem;
+  top: -0.9rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-19-weD .konten-SL5 {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-19-weD .frame-19-4sF {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -0.1rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -2.2rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .pink-minimalist-infinity-love-logo-1-1-Cry {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .pink-minimalist-infinity-love-logo-1-2-VbB {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .rectangle-82-PAm {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .sampling-kemenyan-toba-di-kabupaten-tapanuli-utara-kabupaten-humbang-hasundutan-dan-kabupaten-pakpak-bharat-ESH {
+  width: 61.4rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .tim-institut-teknologi-del-yang-terdiri-atas-ymelda-a-c-manurung-msc-peneliti-genomik-herbal-khdtk-it-del-roga-florida-kembaren-msi-dosen-teknik-bioproses-it-del-dan-darwin-silalahi-mp-peneliti-genomik-hortikultura-khdtk-it-del-melakukan-pengambilan-sampel-daun-kemenyan-sebagai-bagian-dari-kegiatan-penelitian-pengungkapan-biodiversitas-dan-mekanisme-genetik-biosintesis-senyawa-terapeutik-tanaman-kemenyan-menggunakan-analisis-genom-inisiasi-kerjasama-dengan-badan-riset-inovasi-nasional-brin-selama-5-hari-13-17-november-2023-S2Z {
+  width: 68.3rem;
+  height: 34.7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 27.1rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .rectangle-83-Mx9 {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 64.2rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .selengkapnya-qsK {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 17.5rem;
+  top: 69.1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .mingcute-arrow-up-fill-HDX {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 66.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .frame-11-NEy {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .frame-11-NEy .frame-10-gWZ {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pink-minimalist-infinity-love-logo-1-2-bg-7gh.png');
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .frame-11-NEy .frame-10-gWZ .rectangle-82-By7 {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .frame-11-NEy .frame-10-gWZ .lppm-pmB {
+  width: 9.9rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .frame-11-NEy .frame-10-gWZ .lppm-institut-teknologi-del-lembaga-penelitian-dan-pengabdian-masyarakat-lppm-adalah-lembaga-yang-berada-di-bawah-institut-teknologi-del-yang-mempunyai-tugas-untuk-mengkoordinasikan-memantau-dan-menilai-pelaksanaan-kegiatan-penelitian-dan-pengabdian-kepada-masyarakat-yang-diselenggarakan-oleh-lppm-gbk-program-studi-kelompok-dan-perorangan-lppm-mengusahakan-pengendalian-dalam-hal-penggunaan-sumber-daya-serta-mengusahakan-pengembangan-dan-peningkatan-mutu-penelitian-dan-pengabdian-kepada-masyarakat-VcR {
+  width: 68.6rem;
+  height: 24.2rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 26.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .frame-11-NEy .frame-10-gWZ .mingcute-arrow-up-fill-gaR {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 37.2rem;
+  top: 64.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .frame-11-NEy .frame-10-gWZ .rectangle-85-m65 {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 64.2rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .frame-11-NEy .frame-10-gWZ .selengkapnya-Cx5 {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 65.8rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-2eR .frame-11-LQD .frame-19-eFo .frame-11-xxd .frame-11-NEy .frame-10-gWZ .group-f4y {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 66.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-11-WUu {
+  width: 49.2rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 92.1rem;
+  top: 171.6rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-11-WUu .pengunguman4-1-yNV {
+  width: 51.4rem;
+  height: 77.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 171.6rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .konten-NQd {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-19-Bcy {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 2.4rem;
+  top: -0.9rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-19-Bcy .konten-5CZ {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-19-Bcy .frame-19-hUq {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -0.1rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -2.2rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .pink-minimalist-infinity-love-logo-1-1-rm3 {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .pink-minimalist-infinity-love-logo-1-2-KPj {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .rectangle-82-CyK {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .sampling-kemenyan-toba-di-kabupaten-tapanuli-utara-kabupaten-humbang-hasundutan-dan-kabupaten-pakpak-bharat-6J1 {
+  width: 61.4rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .tim-institut-teknologi-del-yang-terdiri-atas-ymelda-a-c-manurung-msc-peneliti-genomik-herbal-khdtk-it-del-roga-florida-kembaren-msi-dosen-teknik-bioproses-it-del-dan-darwin-silalahi-mp-peneliti-genomik-hortikultura-khdtk-it-del-melakukan-pengambilan-sampel-daun-kemenyan-sebagai-bagian-dari-kegiatan-penelitian-pengungkapan-biodiversitas-dan-mekanisme-genetik-biosintesis-senyawa-terapeutik-tanaman-kemenyan-menggunakan-analisis-genom-inisiasi-kerjasama-dengan-badan-riset-inovasi-nasional-brin-selama-5-hari-13-17-november-2023-g1K {
+  width: 68.3rem;
+  height: 34.7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 27.1rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .rectangle-83-Kc1 {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 64.2rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .selengkapnya-bJd {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 65.4rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .mingcute-arrow-up-fill-EcV {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 66.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pink-minimalist-infinity-love-logo-1-2-bg.png');
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .rectangle-82-bE5 {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .program-studi-ey3 {
+  width: 25.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .program-studi-adalah-kesatuan-rencana-belajar-sebagai-pedoman-penyelenggaraan-pendidikan-akademik-dan-atau-profesional-yang-diselenggarakan-atas-dasar-suatu-kurikulum-serta-ditujukan-agar-mahasiswa-dapat-menguasai-pengetahuan-keterampilan-dan-sikap-sesuai-dengan-sasaran-kurikulum-sL1 {
+  width: 69.5rem;
+  height: 25.5rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 27.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .rectangle-83-MPb {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.1rem;
+  top: 62.4rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .selengkapnya-BNd {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 64rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .mingcute-arrow-up-fill-pAh {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 37.2rem;
+  top: 64.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .rectangle-83-TzM {
+  width: 75.4rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .visi-it-del-adalah-menjadi-pusat-unggul-dalam-pengembangan-pembelajaran-stem-yang-efisien-efektif-dan-terukur-misi-mereka-mencakup-penelitian-inovatif-tentang-metode-media-dan-sumber-belajar-stem-penerapan-pendekatan-scl-yang-berfokus-pada-mahasiswa-pengembangan-e-learning-pelatihan-terkait-pembelajaran-inovatif-serta-kerjasama-dengan-pemerintah-lembaga-pendidikan-dan-industri-tujuan-utamanya-adalah-meningkatkan-kemampuan-internal-dalam-menerapkan-pembelajaran-stem-scl-dan-e-learning-selain-itu-fokusnya-adalah-mempersiapkan-lulusan-agar-siap-bersaing-di-industri-dan-meningkatkan-kapasitas-tenaga-pengajar-di-lembaga-mitra-dalam-menerapkan-metode-pembelajaran-yang-inovatif-wed {
+  width: 71rem;
+  height: 29.1rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 28.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .upt-pp-estem-eqs {
+  width: 15.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .rectangle-85-umo {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 62.8rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .selengkapnya-xk5 {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 64rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-12-sim .frame-11-nmB .frame-11-HKs .frame-10-ZHP .mingcute-arrow-up-fill-ESh {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 35.8rem;
+  top: 65.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .profil-lulusan-dan-capaian-pembelajaran-lulusan-institut-teknologi-del-1-838x1024-2-ZtH {
+  width: 49.5rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 91.9rem;
+  top: 171.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .profil-lulusan-dan-capaian-pembelajaran-lulusan-institut-teknologi-del-1-838x1024-3-cLm {
+  width: 49.5rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 91.8rem;
+  top: 7.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-17-2vH {
+  width: 49.2rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 91.8rem;
+  top: 335.4rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-17-2vH .pengunguman5-1-8iR {
+  width: 56.3rem;
+  height: 77.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 335.4rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .konten-bkR {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-19-dx1 {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 2.4rem;
+  top: -0.9rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-19-dx1 .konten-VzD {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-19-dx1 .frame-19-AKf {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -0.1rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -2.2rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .pink-minimalist-infinity-love-logo-1-1-gSR {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .pink-minimalist-infinity-love-logo-1-2-mTs {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .rectangle-82-2ub {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .bapak-gibran-rakabuming-raka-beri-kuliah-umum-kepada-mahasiswa-it-del-terkait-pemimpin-milenial-vEH {
+  width: 61.7rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .pada-hari-sabtu-18-november-2023-institut-teknologi-del-menerima-kunjungan-bapak-gibran-rakabuming-raka-sekaligus-menjadi-pembicara-pada-kuliah-umum-dengan-topik-pemimpin-milenial-kepada-mahasiswa-i-institut-teknologi-del-kunjungan-ini-disambut-baik-oleh-bapak-dr-arnaldo-marulitua-sinaga-st-minfotech-rektor-it-del-bapak-dan-ibu-wakil-rektor-dan-dosen-it-del-dan-mahasiswa-i-it-del-juga-siswa-sma-unggul-del-dalam-kunjungan-ini-turut-hadir-ibuvi-ananda-dan-bapak-bobby-nasution-wali-kota-medan-gMs {
+  width: 66.4rem;
+  height: 34.7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 27.1rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .rectangle-83-Uh3 {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 64.2rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .selengkapnya-Mkq {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 65.4rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .mingcute-arrow-up-fill-n5T {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 66.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .rectangle-85-s6u {
+  width: 75.4rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .pusat-modal-manusia-pmm-di-bawah-wakil-rektor-bidang-perencanaan-keuangan-dan-sumber-daya-bertanggung-jawab-mengelola-sumber-daya-manusia-di-it-del-tugasnya-mencakup-perencanaan-pengembangan-pegawai-rekrutmen-penempatan-kinerja-kenaikan-pangkat-remunerasi-dan-kebijakan-kesejahteraan-pegawai-sub-bagian-dari-pmm-seperti-sipaten-dan-sister-merupakan-aplikasi-yang-mendukung-manajemen-data-dosen-dan-kegiatan-tridharma-perguruan-tinggi-sipaten-membantu-dalam-proses-jabatan-fungsional-dosen-di-perguruan-tinggi-sementara-sister-adalah-sistem-pengelolaan-data-dosen-nasional-yang-memberikan-akses-kepada-dosen-untuk-mengelola-data-mereka-sendiribeban-kerja-dosen-bkd-merupakan-laporan-kegiatan-tridharma-perguruan-tinggi-yang-dilakukan-oleh-dosen-mencakup-bidang-pendidikan-dan-pengajaran-penelitian-pengabdian-kepada-masyarakat-dan-penunjang-kegiatan-tridharma-perguruan-tinggi-Kjb {
+  width: 71.1rem;
+  height: 33.9rem;
+  position: absolute;
+  left: 11rem;
+  top: 26.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .pusat-modal-manusia-axM {
+  width: 22.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 17.7rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .rectangle-87-CTw {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 11rem;
+  top: 62.8rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .selengkapnya-sKB {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 64rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-18-opZ .frame-19-5XB .frame-11-26y .mingcute-arrow-up-fill-6hj {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 34.5rem;
+  top: 64.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-7-9AD {
+  width: 49.2rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 89.7rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-7-9AD .gambar-Dfs {
+  width: 18rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 15.6rem;
+  top: 35.5rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-7-9AD .frame-9-dzV {
+  width: 49.2rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-7-9AD .frame-9-dzV .pengunguman3-1-MQh {
+  width: 49.2rem;
+  height: 77.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 55.8rem;
+  top: 89.7rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .konten-uqX {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT .konten-Siy {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT .frame-19-6oX {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -0.1rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT .frame-19-6oX .frame-11-PGq {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pink-minimalist-infinity-love-logo-1-1-bg-4q3.png');
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT .frame-19-6oX .frame-11-PGq .rectangle-82-sxh {
+  width: 75.4rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT .frame-19-6oX .frame-11-PGq .mitra-kerjasama-dengan-institut-teknologi-del-xjF {
+  width: 49rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT .frame-19-6oX .frame-11-PGq .institut-teknologi-del-it-del-adalah-pusat-pendidikan-dan-riset-teknologi-yang-terkemuka-fokus-pada-kolaborasi-dengan-industri-dan-lembaga-riset-melalui-kemitraan-strategis-lokal-dan-internasional-it-del-memajukan-kurikulum-yang-menawarkan-keterampilan-terkini-dan-kesempatan-magang-pusat-risetnya-menangani-beragam-bidang-memunculkan-solusi-inovatif-untuk-tantangan-global-dengan-jaringan-luas-universitas-dan-industri-it-del-mempersiapkan-lulusannya-untuk-sukses-dalam-dunia-kerja-yang-terus-berkembang-selain-itu-institut-ini-aktif-dalam-menyediakan-peluang-magang-bagi-mahasiswa-memungkinkan-mereka-untuk-mendapatkan-pengalaman-praktis-di-berbagai-perusahaan-terkemuka-kemitraan-dengan-industri-ini-juga-membuka-jalan-bagi-peluang-kerja-bagi-lulusan-Zyw {
+  width: 71.1rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 27.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT .frame-19-6oX .frame-11-PGq .mingcute-arrow-up-fill-GvH {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 66.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT .frame-19-6oX .frame-11-PGq .rectangle-84-KtZ {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 62.1rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT .frame-19-6oX .frame-11-PGq .selengkapnya-Qf7 {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 63.5rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-8-1k9 .frame-10-AmT .frame-19-6oX .frame-11-PGq .mingcute-arrow-up-fill-U9B {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 64.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-13-CzH {
+  width: 49.2rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 253.5rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 56.4rem;
+  top: 253.5rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .konten-EJh {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .konten-UsF {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-19-ev9 {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 2.4rem;
+  top: -0.9rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-19-ev9 .konten-8aR {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-19-ev9 .frame-19-CKP {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -0.1rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -2.2rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .pink-minimalist-infinity-love-logo-1-1-vub {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .pink-minimalist-infinity-love-logo-1-2-oyP {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .rectangle-82-J9T {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .wisuda-398-lulusan-institut-teknologi-del-L69 {
+  width: 44rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .pada-hari-sabtu-23-september-2023-institut-teknologi-del-melaksanakan-wisuda-untuk-398-mahasiswa-sarjana-dan-diploma-turut-hadir-bapak-dr-honoris-causa-ir-airlangga-hartarto-mba-mmt-menteri-koordinator-bidang-perekonomian-republik-indonesia-bapak-rionald-silaban-direktorat-jendral-kekayaan-negara-bapak-jend-tni-purn-luhut-binsar-pandjaitan-mpa-ketua-pembina-yayasan-del-ibu-intan-simanjuntak-ketua-pengurus-yayasan-del-dan-tamu-undangan-lainnya-kegiatan-wisuda-ini-dilaksanakan-di-gedung-serba-guna-yayasan-del-dengan-tema-fostering-collaboration-and-innovation-towards-research-excellence-mx9 {
+  width: 68.5rem;
+  height: 40.9rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 22.3rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .rectangle-83-SqK {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 64.2rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .selengkapnya-vEh {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 65.4rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .mingcute-arrow-up-fill-xBP {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 66.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .rectangle-84-SMT {
+  width: 75.4rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .institut-teknologi-del-it-del-membentuk-spm-sistem-penjaminan-mutu-pada-november-2008-sesuai-arahan-direktorat-jenderal-pendidikan-tinggi-spm-it-del-bertujuan-menjadi-rujukan-mutu-pendidikan-tinggi-dengan-misi-menjadikan-mutu-sebagai-roh-program-dan-kegiatan-fungsinya-mencakup-penjaminan-mutu-tridarma-perguruan-tinggi-di-politeknik-informatika-del-spm-it-del-memiliki-tugas-umum-dalam-mengembangkan-panduan-penjaminan-mutu-mengkoordinasikan-pelaksanaan-melakukan-kajian-hasil-penjaminan-mutu-dan-menyusun-standar-mutu-it-del-model-penjaminan-mutu-didasarkan-pada-nilai-nilai-inovasi-keterlibatan-kepedulian-integritas-dan-apresiasi-j5f {
+  width: 69.3rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 26.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .sistem-penjamin-mutu-UL5 {
+  width: 23.7rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 18.7rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .rectangle-86-uAV {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 62.25rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .selengkapnya-Bth {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 64.1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-14-N1b .frame-16-4Yd .frame-19-yvV .frame-11-hX3 .mingcute-arrow-up-fill-eGV {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 35.6rem;
+  top: 65.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-15-Sy3 {
+  width: 49.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 253.5rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-15-Sy3 .pengunguman6-1-96m {
+  width: 49.9rem;
+  height: 79.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-94-SrZ {
+  width: 144rem;
+  height: 67.6rem;
+  position: absolute;
+  left: 0;
+  top: 576.7rem;
+  background-color: #8b77a6;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-96-vFw {
+  width: 144rem;
+  height: 67.6rem;
+  position: absolute;
+  left: 0;
+  top: 576.7rem;
+  background-color: #8b77a6;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-29-245 {
+  width: 136.5rem;
+  height: 51.5rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 588.9rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-30-KJ5 {
+  width: 100.3rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 21.4rem;
+  top: 580.7rem;
+  background-color: #8b77a6;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-31-C6y {
+  width: 28.6rem;
+  height: 15.4rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 579.3rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-32-5gZ {
+  width: 28.6rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 57.4rem;
+  top: 579.3rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-33-Nff {
+  width: 28.6rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 90.5rem;
+  top: 579.3rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .fakultas-2VK {
+  width: 16.1rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 30.95rem;
+  top: 590.6rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .program-studi-gZs {
+  width: 25.5rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 58.75rem;
+  top: 590.2rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .mitra-HpZ {
+  width: 14.8rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 97.4rem;
+  top: 590.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-34-wu7 {
+  width: 41.5rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 601.7rem;
+  background-color: #ffffff;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-35-2Qm {
+  width: 41.5rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 52.1rem;
+  top: 601.7rem;
+  background-color: #ffffff;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-36-8Cu {
+  width: 41.5rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 96.6rem;
+  top: 601.7rem;
+  background-color: #ffffff;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .rectangle-95-p5j {
+  width: 41.5rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 96.6rem;
+  top: 601.7rem;
+  background-color: #ffffff;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .depan-gerbang-institut-teknologi-del-sitoluama-kec-balige-toba-sumatera-utara-22381-KHP {
+  width: 38rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 98.4rem;
+  top: 611.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .testimoni-fakta-dan-angka-del-inspirasi-selangkah-lebih-maju-dosen-it-del-staff-it-del-penerimaan-mahasiswa-baru-6Bf {
+  width: 29rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 9.7rem;
+  top: 602.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .lppm-mitra-kerja-sama-dengan-it-del-koperasi-pusat-bantuan-it-del-satutata-lowongan-kerja-qYZ {
+  width: 26.1rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 602.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .ph-student-fill-rCm {
+  width: 11.3751rem;
+  height: 9.6922rem;
+  position: absolute;
+  left: 33.4125rem;
+  top: 579.9625rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .bxs-book-JaZ {
+  width: 7.5rem;
+  height: 8.3333rem;
+  position: absolute;
+  left: 67.75rem;
+  top: 580.8333rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .ri-shake-hands-fill-zyB {
+  width: 9.8172rem;
+  height: 9.2124rem;
+  position: absolute;
+  left: 100.4333rem;
+  top: 580.7073rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .logox-sGH {
+  width: 40.9rem;
+  height: 7.4081rem;
+  position: absolute;
+  left: 96.8rem;
+  top: 602rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-23-8CD {
+  width: 49.2rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 93.6rem;
+  top: 498.6rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-23-8CD .pengunguman5-1-2YV {
+  width: 56.3rem;
+  height: 77.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 498.6rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .konten-2qK {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-19-qGy {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 2.4rem;
+  top: -0.9rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-19-qGy .konten-iLm {
+  width: 16rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 34.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-19-qGy .frame-19-ik5 {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -0.1rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: -2.2rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .pink-minimalist-infinity-love-logo-1-1-Ebw {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .pink-minimalist-infinity-love-logo-1-2-7vd {
+  width: 87.1rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .rectangle-82-p4M {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .bapak-gibran-rakabuming-raka-beri-kuliah-umum-kepada-mahasiswa-it-del-terkait-pemimpin-milenial-T7K {
+  width: 61.7rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .pada-hari-sabtu-18-november-2023-institut-teknologi-del-menerima-kunjungan-bapak-gibran-rakabuming-raka-sekaligus-menjadi-pembicara-pada-kuliah-umum-dengan-topik-pemimpin-milenial-kepada-mahasiswa-i-institut-teknologi-del-kunjungan-ini-disambut-baik-oleh-bapak-dr-arnaldo-marulitua-sinaga-st-minfotech-rektor-it-del-bapak-dan-ibu-wakil-rektor-dan-dosen-it-del-dan-mahasiswa-i-it-del-juga-siswa-sma-unggul-del-dalam-kunjungan-ini-turut-hadir-ibuvi-ananda-dan-bapak-bobby-nasution-wali-kota-medan-Dkh {
+  width: 66.4rem;
+  height: 34.7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 27.1rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .rectangle-83-zHb {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 64.2rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .selengkapnya-2EH {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 65.4rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .mingcute-arrow-up-fill-g3w {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 66.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .rectangle-85-XKT {
+  width: 75.4rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .the-language-center-at-del-institute-of-technology-offers-a-range-of-programs-and-services-for-english-language-development-and-document-translation-these-include-individual-english-skill-enhancement-courses-toefl-institutional-testing-and-professional-development-classes-covering-various-fields-like-nursing-information-technology-administration-and-oil-and-gas-these-services-cater-not-only-to-students-and-staff-but-also-to-the-broader-local-community-the-toefl-institutional-test-facilitated-by-it-del-is-conducted-monthly-allowing-individuals-to-register-and-pay-a-fee-of-idr-570000-the-test-covers-listening-structure-written-expressions-and-reading-comprehension-toefl-itp-results-are-officially-issued-by-the-educational-testing-service-ets-usa-available-for-collection-at-it-dels-campus-three-weeks-post-test-date-registration-can-be-completed-by-submitting-necessary-documents-and-payment-details-to-the-designated-email-or-fax-with-test-date-preferences-and-contacting-the-provided-phone-number-for-confirmation-o25 {
+  width: 70.5rem;
+  height: 36.3rem;
+  position: absolute;
+  left: 11rem;
+  top: 23.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .pusat-bahasa-institut-teknologi-del-vH3 {
+  width: 37.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 17.7rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .rectangle-87-xUd {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 11rem;
+  top: 62.8rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .selengkapnya-aW1 {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 64rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-lembaga-7PK .auto-group-bqzs-bPb .frame-24-sJD .frame-19-7iM .frame-11-cqT .mingcute-arrow-up-fill-SYD {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 34.5rem;
+  top: 64.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
