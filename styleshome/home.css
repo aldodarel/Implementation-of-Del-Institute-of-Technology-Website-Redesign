@@ -1,0 +1,2045 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.wireframe-home--Tvd {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq {
+  margin-bottom: 6.7rem;
+  width: 100%;
+  height: 81rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .rectangle-1-fSM {
+  width: 144rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #bab9b9;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .logo-ifX {
+  width: 13.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 17.5rem;
+  top: 3rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .vector-Sjw {
+  width: 1.75rem;
+  height: 9.1807rem;
+  position: absolute;
+  left: 136.4rem;
+  top: 26.7551rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms {
+  width: 144rem;
+  height: 81rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .rectangle-88-9Xs {
+  width: 3.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 113.5rem;
+  top: 1.1rem;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .https-wwwlinkedincom-school-institut-teknologi-del--q9o {
+  width: 3.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 113.7rem;
+  top: 1.4rem;
+  font-size: 0.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .https-wwwinstagramcom-itdel--A5b {
+  width: 2.8rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 100.3rem;
+  top: 1.5rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .rectangle-86-af7 {
+  width: 4.1rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 99.7rem;
+  top: 1rem;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .rectangle-85-32u {
+  width: 4.7rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 119.8rem;
+  top: 0.7rem;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .rectangle-84-iuj {
+  width: 4.1rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 1.5rem;
+}
+
+.rectangle-84-iuj{
+  z-index: 1000;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .rectangle-87-QXf {
+  width: 4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 106.7rem;
+  top: 1rem;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .https-wwwfacebookcom-institutteknologidel-EWh {
+  width: 3.8rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 106.9rem;
+  top: 1.4rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .brown-and-yellow-scrapbook-brainstorm-presentation-1-1-T8Z {
+  width: 144rem;
+  height: 80rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .line-99-v29 {
+  width: 4.2rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 2rem;
+  background-color: #000000;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .line-100-AhB {
+  width: 4.2rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 3.5rem;
+  background-color: #000000;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .line-101-rpu {
+  width: 4.2rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 4.8rem;
+  background-color: #000000;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .skill-icons-instagram-Mmf {
+  width: 4.1rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 99.7rem;
+  top: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .devicon-facebook-cBo {
+  width: 3.6984rem;
+  height: 3.6984rem;
+  position: absolute;
+  left: 106.8509rem;
+  top: 1.2509rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .devicon-linkedin-HHw {
+  width: 3.7172rem;
+  height: 3.6219rem;
+  position: absolute;
+  left: 113.5914rem;
+  top: 1.189rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-fpxf-mpq .frame-1-8Ms .ic-round-search-yAm {
+  width: 3.3388rem;
+  height: 3.2696rem;
+  position: absolute;
+  left: 120.3872rem;
+  top: 1.0747rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh {
+  margin: 0rem 2.6rem 4.9rem 3.3rem;
+  width: calc(100% - 5.9rem);
+  height: 77.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh .frame-3-ZHP {
+  margin-right: 4rem;
+  width: 84.9rem;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pink-minimalist-infinity-love-logo-1-2-bg.png');
+  background-color: #bab9b9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh .frame-3-ZHP .rectangle-82-zNh {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh .frame-3-ZHP .sambutan-rektor-SVb {
+  width: 30.8rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh .frame-3-ZHP .excellence-starts-here-merupakan-slogan-dari-it-del-yang-mendasari-dari-semua-program-dari-it-del-it-del-akan-memasuki-masa-menjadi-research-institute-yaitu-pusat-unggulan-yang-akan-dirasakan-manfaatnya-bagi-kemajuan-bangsa-sebagai-pusat-keunggulan-it-del-akan-dikenal-secara-internasional-khususnya-di-kawasan-asia-tenggara-pW9 {
+  width: 66.5rem;
+  height: 29.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 27.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh .frame-3-ZHP .rectangle-83-TBj {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.1rem;
+  top: 62.4rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh .frame-3-ZHP .selengkapnya-gKP {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 64rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh .frame-3-ZHP .mingcute-arrow-up-fill-j2m {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 37.2rem;
+  top: 64.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh .frame-5-soB {
+  width: 49.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-1-bg.png');
+  background-color: #bab9b9;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh .frame-5-soB .frame-10-oB3 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #bab9b9;
+}
+.wireframe-home--Tvd .auto-group-2bbb-XLh .frame-5-soB .frame-10-oB3 .image-1-Xsj {
+  width: 49.2rem;
+  height: 77.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH {
+  margin-bottom: 15.4rem;
+  width: 100%;
+  height: 29.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .rectangle-89-PYZ {
+  width: 144rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #8b77a6;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-4-gXf {
+  box-sizing: border-box;
+  padding: 1.2rem 3.2rem 1.2rem 1.9rem;
+  width: 56.9rem;
+  height: 23.1rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 6.7rem;
+  overflow: hidden;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-4-gXf .auto-group-fryt-ecu {
+  margin: 0rem 0.2rem 3rem 0rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-4-gXf .auto-group-fryt-ecu .fluent-mdl2-education-XRo {
+  margin-right: 1.1rem;
+  width: 11.7rem;
+  height: 9.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-4-gXf .auto-group-fryt-ecu .senat-akademik-it-del-senat-akademik-adalah-perangkat-organisasi-institut-yang-berperan-sebagai-badan-normatif-institut-yHo {
+  margin-bottom: 0.2rem;
+  max-width: 38.8rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2120000124;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-4-gXf .auto-group-fryt-ecu .senat-akademik-it-del-senat-akademik-adalah-perangkat-organisasi-institut-yang-berperan-sebagai-badan-normatif-institut-yHo .senat-akademik-it-del-senat-akademik-adalah-perangkat-organisasi-institut-yang-berperan-sebagai-badan-normatif-institut-yHo-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-4-gXf .auto-group-fryt-ecu .senat-akademik-it-del-senat-akademik-adalah-perangkat-organisasi-institut-yang-berperan-sebagai-badan-normatif-institut-yHo .senat-akademik-it-del-senat-akademik-adalah-perangkat-organisasi-institut-yang-berperan-sebagai-badan-normatif-institut-yHo-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-4-gXf .auto-group-gbw3-qPs {
+  margin-left: 31.2rem;
+  box-sizing: border-box;
+  padding: 1rem 0.8rem 0.8rem 2.4rem;
+  width: calc(100% - 31.2rem);
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-83.png');
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-4-gXf .auto-group-gbw3-qPs .selengkapnya-UBw {
+  margin: 0rem 2.7rem 0.5rem 0rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-4-gXf .auto-group-gbw3-qPs .mingcute-arrow-up-fill-6DK {
+  margin-top: 0.7rem;
+  width: 2.2rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .rectangle-3-zT7 {
+  width: 56.9rem;
+  height: 23.1rem;
+  position: absolute;
+  left: 78.7rem;
+  top: 6.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .rectangle-7-BnV {
+  width: 21.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 110.4rem;
+  top: 21.3rem;
+  background-color: #bab9b9;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .button-gDT {
+  width: 6.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 118.6rem;
+  top: 22.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .konten-fr5 {
+  width: 10.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 90.05rem;
+  top: 9.4rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-7-gFP {
+  box-sizing: border-box;
+  padding: 2.1rem 3.2rem 1.4rem 3.375rem;
+  width: 56.9rem;
+  height: 23.1rem;
+  position: absolute;
+  left: 78.7rem;
+  top: 6.7rem;
+  overflow: hidden;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-7-gFP .auto-group-nqqp-sKs {
+  margin: 0rem 1.6rem 2.1rem 0rem;
+  width: calc(100% - 1.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-7-gFP .auto-group-nqqp-sKs .mdi-achievement-8Wh {
+  margin: 2.5rem 3.475rem 0rem 0rem;
+  width: 9.75rem;
+  height: 7.5833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-7-gFP .auto-group-nqqp-sKs .prestasi-prestasi-institut-teknologi-del-berasal-dari-mahasiswa-maupun-dosen-kRb {
+  max-width: 35.5rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2120000124;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-7-gFP .auto-group-nqqp-sKs .prestasi-prestasi-institut-teknologi-del-berasal-dari-mahasiswa-maupun-dosen-kRb .prestasi-prestasi-institut-teknologi-del-berasal-dari-mahasiswa-maupun-dosen-kRb-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-7-gFP .auto-group-nqqp-sKs .prestasi-prestasi-institut-teknologi-del-berasal-dari-mahasiswa-maupun-dosen-kRb .prestasi-prestasi-institut-teknologi-del-berasal-dari-mahasiswa-maupun-dosen-kRb-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-7-gFP .auto-group-ypm7-i4u {
+  margin-left: 29.725rem;
+  box-sizing: border-box;
+  padding: 1.2rem 0.9rem 0.8rem 1.9rem;
+  width: calc(100% - 29.725rem);
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-84.png');
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-7-gFP .auto-group-ypm7-i4u .selengkapnya-vgm {
+  margin: 0rem 3.1rem 0.3rem 0rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-acqu-utH .frame-7-gFP .auto-group-ypm7-i4u .mingcute-arrow-up-fill-iMj {
+  margin-top: 0.5rem;
+  width: 2.2rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu {
+  margin: 0rem 8.4rem 3rem 9.5rem;
+  width: calc(100% - 17.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB {
+  margin: 0.1rem 12.3rem 0rem 0rem;
+  width: 56.9rem;
+  height: 23.1rem;
+  position: relative;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .rectangle-6-2of {
+  width: 20.1rem;
+  height: 5rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 14.5rem;
+  background-color: #bab9b9;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .button-4VT {
+  width: 6.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 40.4rem;
+  top: 15.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .konten-6ww {
+  width: 10.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 3.3rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .frame-8-JYD {
+  box-sizing: border-box;
+  padding: 1.7rem 2.9rem 1.4rem 2.2rem;
+  width: 56.9rem;
+  height: 23.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .frame-8-JYD .auto-group-ybzu-8n9 {
+  margin: 0rem 4.5rem 2.9rem 0rem;
+  width: calc(100% - 4.5rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .frame-8-JYD .auto-group-ybzu-8n9 .vector-NwP {
+  margin-right: 2rem;
+  width: 11.7rem;
+  height: 9.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .frame-8-JYD .auto-group-ybzu-8n9 .fasilitas-institut-teknologi-del-memiliki-fasilitas-yang-lengkap-UUd {
+  margin-bottom: 2.5rem;
+  max-width: 33.6rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2120000124;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .frame-8-JYD .auto-group-ybzu-8n9 .fasilitas-institut-teknologi-del-memiliki-fasilitas-yang-lengkap-UUd .fasilitas-institut-teknologi-del-memiliki-fasilitas-yang-lengkap-UUd-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .frame-8-JYD .auto-group-ybzu-8n9 .fasilitas-institut-teknologi-del-memiliki-fasilitas-yang-lengkap-UUd .fasilitas-institut-teknologi-del-memiliki-fasilitas-yang-lengkap-UUd-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .frame-8-JYD .auto-group-w9mx-iLM {
+  margin-left: 31.2rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.7rem 0.9rem 1.8rem;
+  width: calc(100% - 31.2rem);
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-84-oCh.png');
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .frame-8-JYD .auto-group-w9mx-iLM .selengkapnya-ACM {
+  margin: 0rem 2.4rem 0.3rem 0rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-clzb-zMB .frame-8-JYD .auto-group-w9mx-iLM .mingcute-arrow-up-fill-DwK {
+  margin-top: 0.5rem;
+  width: 2.2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu {
+  margin-bottom: 0.1rem;
+  width: 56.9rem;
+  height: 23.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .rectangle-4-L2H {
+  width: 56.9rem;
+  height: 22.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .rectangle-8-ahK {
+  width: 20.3rem;
+  height: 5rem;
+  position: absolute;
+  left: 32.9rem;
+  top: 14.6rem;
+  background-color: #bab9b9;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .button-fyf {
+  width: 6.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 39.9rem;
+  top: 15.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .konten-e4u {
+  width: 10.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 3.1rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB {
+  box-sizing: border-box;
+  padding: 1.7rem 2.9rem 1.8rem 2.475rem;
+  width: 56.9rem;
+  height: 23.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-bxn5-4H3 {
+  margin: 0rem 3.5rem 1.7rem 0rem;
+  width: calc(100% - 3.5rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-bxn5-4H3 .bxs-school-KCy {
+  margin: 0rem 4.075rem 1.317rem 0rem;
+  box-sizing: border-box;
+  padding: 1.5167rem 3.4125rem;
+  height: 6.825rem;
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-ESZ.png');
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-bxn5-4H3 .bxs-school-KCy .vector-viZ {
+  width: 2.925rem;
+  height: 2.275rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-bxn5-4H3 .sivitas-institut-teknologi-del-memiliki-sivitas-yang-unggul-dalam-pembelajaran-oXT {
+  max-width: 34.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2120000124;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-bxn5-4H3 .sivitas-institut-teknologi-del-memiliki-sivitas-yang-unggul-dalam-pembelajaran-oXT .sivitas-institut-teknologi-del-memiliki-sivitas-yang-unggul-dalam-pembelajaran-oXT-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-bxn5-4H3 .sivitas-institut-teknologi-del-memiliki-sivitas-yang-unggul-dalam-pembelajaran-oXT .sivitas-institut-teknologi-del-memiliki-sivitas-yang-unggul-dalam-pembelajaran-oXT-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-hubx-8k5 {
+  width: 25.2rem;
+  height: 5.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-hubx-8k5 .selengkapnya-dgq {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-hubx-8k5 .rectangle-85-3Vf {
+  width: 20.6rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 3.5rem;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-hubx-8k5 .selengkapnya-unm {
+  width: 12.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 1.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-t3wt-wNu .auto-group-wtgr-HJu .frame-9-qfB .auto-group-hubx-8k5 .mingcute-arrow-up-fill-JK7 {
+  width: 2.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X {
+  margin-bottom: 10.8rem;
+  width: 147.6rem;
+  height: 119.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .rectangle-91-Gof {
+  width: 144rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 81.4rem;
+  background-color: #8b77a6;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .rectangle-90-a3f {
+  width: 147.6rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #1796f0;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .frame-2-kMT {
+  width: 49rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 8.6rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .profil-lulusan-dan-capaian-pembelajaran-lulusan-institut-teknologi-del-1-838x1024-1-ps7 {
+  width: 49.5rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 8.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .frame-6-roo {
+  width: 84.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 8.6rem;
+  overflow: hidden;
+  background-color: #bab9b9;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .frame-6-roo .frame-10-KSV {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pink-minimalist-infinity-love-logo-1-1-bg.png');
+  background-color: #bab9b9;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .frame-6-roo .frame-10-KSV .rectangle-82-pPF {
+  width: 73.1rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 16.2rem;
+  background-color: #f1f1f1;
+  border-radius: 3.8rem;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .frame-6-roo .frame-10-KSV .program-studi-gRT {
+  width: 25.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .frame-6-roo .frame-10-KSV .program-studi-adalah-kesatuan-rencana-belajar-sebagai-pedoman-penyelenggaraan-pendidikan-akademik-dan-atau-profesional-yang-diselenggarakan-atas-dasar-suatu-kurikulum-serta-ditujukan-agar-mahasiswa-dapat-menguasai-pengetahuan-keterampilan-dan-sikap-sesuai-dengan-sasaran-kurikulum-tXX {
+  width: 69.5rem;
+  height: 25.5rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 27.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .frame-6-roo .frame-10-KSV .rectangle-83-Nr1 {
+  width: 29.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.1rem;
+  top: 62.4rem;
+  background-color: rgba(115, 97, 140, 0.850980401);
+  border-radius: 3.5rem;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .frame-6-roo .frame-10-KSV .selengkapnya-D5w {
+  width: 18.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 64rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .frame-6-roo .frame-10-KSV .mingcute-arrow-up-fill-SUV {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 37.2rem;
+  top: 64.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .mingcute-arrow-up-fill-bEu {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 44.1rem;
+  top: 112.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .group-G69 {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 43.8rem;
+  top: 112.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .rectangle-9-JoX {
+  width: 64.6rem;
+  height: 26.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 93rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .rectangle-10-jP3 {
+  width: 64.6rem;
+  height: 26.8rem;
+  position: absolute;
+  left: 76.6rem;
+  top: 93rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .selengkapnya-Ltd {
+  width: 21.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 111.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .selengkapnya-any {
+  width: 21.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97rem;
+  top: 111.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .fakultas-institut-teknologi-del-memiliki-4-fakultas-Bnm {
+  width: 40.9rem;
+  height: 13.6rem;
+  position: absolute;
+  left: 20.5rem;
+  top: 94.6rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .fakultas-institut-teknologi-del-memiliki-4-fakultas-Bnm .fakultas-institut-teknologi-del-memiliki-4-fakultas-Bnm-sub-0 {
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .fakultas-institut-teknologi-del-memiliki-4-fakultas-Bnm .fakultas-institut-teknologi-del-memiliki-4-fakultas-Bnm-sub-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .beasiswa-institut-teknologi-del-memiliki-4-fakultas-dAu {
+  width: 30.7rem;
+  height: 16.8rem;
+  position: absolute;
+  left: 96.3rem;
+  top: 94.7rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .beasiswa-institut-teknologi-del-memiliki-4-fakultas-dAu .beasiswa-institut-teknologi-del-memiliki-4-fakultas-dAu-sub-0 {
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .beasiswa-institut-teknologi-del-memiliki-4-fakultas-dAu .beasiswa-institut-teknologi-del-memiliki-4-fakultas-dAu-sub-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .beasiswa-institut-teknologi-del-memiliki-4-fakultas-dAu .beasiswa-institut-teknologi-del-memiliki-4-fakultas-dAu-sub-2 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .line-88-NZj {
+  width: 29rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 115.8rem;
+  background-color: #000000;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .line-89-T5P {
+  width: 27.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 96.3rem;
+  top: 116rem;
+  background-color: #000000;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .ph-student-bold-Y6q {
+  width: 14.4275rem;
+  height: 16.1797rem;
+  position: absolute;
+  left: 5.0354rem;
+  top: 95.7545rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .mingcute-horn-line-ivR {
+  width: 11.7rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 79.8rem;
+  top: 95.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .mingcute-arrow-up-fill-jad {
+  width: 2.4157rem;
+  height: 2.4157rem;
+  position: absolute;
+  left: 121.9rem;
+  top: 113rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-getd-T5X .mingcute-arrow-up-fill-fMo {
+  width: 2.4449rem;
+  height: 2.4449rem;
+  position: absolute;
+  left: 47.4776rem;
+  top: 112.8776rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-onlm-rBP {
+  margin: 0rem 11.2rem 3rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-onlm-rBP .berita-terkini-kvy {
+  margin-right: 21.05rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-onlm-rBP .berita-terkini-kvy .berita-terkini-kvy-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-onlm-rBP .berita-terkini-kvy .berita-terkini-kvy-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-onlm-rBP .kegiatan-ioF {
+  margin-right: 30.15rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-onlm-rBP .berita-spmb-8c5 {
+  margin-top: 0.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f {
+  width: 147.6rem;
+  height: 66.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-92-XGq {
+  width: 147.6rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 41.4rem;
+  background-color: #1796f0;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-11-NYM {
+  width: 39.1rem;
+  height: 48.6rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 0.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-12-cBo {
+  width: 39.1rem;
+  height: 48.6rem;
+  position: absolute;
+  left: 102.1rem;
+  top: 0.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-13-bpR {
+  width: 39.1rem;
+  height: 48.6rem;
+  position: absolute;
+  left: 53rem;
+  top: 0.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .it-del-menjadi-tuan-rumah-29th-ieee-ict-conference-qCy {
+  width: 33.6rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 29.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .sosialisasi-data-diri-untuk-pddikti-dan-peraturan-kampus-kepada-mahasiswa-angkatan-2023-p4u {
+  width: 35.3rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 53.9rem;
+  top: 29.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .informasi-pmb-jalur-sertifikat-ujian-tulis-berbasis-komputer-sertifikat-utbk-2023-2024-jadwal-pelaksanaan-kegiatan-D73 {
+  width: 37rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 103.2rem;
+  top: 29.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .selengkapnya-kWH {
+  width: 14.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 24.3rem;
+  top: 43.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .selengkapnya-b17 {
+  width: 14.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 73.5rem;
+  top: 43.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .selengkapnya-oN5 {
+  width: 14.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 123.2rem;
+  top: 43.3rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-14-ReM {
+  width: 39.2rem;
+  height: 27.8rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-15-gKP {
+  width: 39.2rem;
+  height: 27.8rem;
+  position: absolute;
+  left: 102.3rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-16-Ze5 {
+  width: 39.2rem;
+  height: 27.8rem;
+  position: absolute;
+  left: 53rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-17-efX {
+  width: 11.9rem;
+  height: 13rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 53.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-20-5Vw {
+  width: 11.9rem;
+  height: 13rem;
+  position: absolute;
+  left: 53rem;
+  top: 53.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-22-NE9 {
+  width: 11.9rem;
+  height: 13rem;
+  position: absolute;
+  left: 102.3rem;
+  top: 53.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-23-dA5 {
+  width: 26.3rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 53.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-93-s4R {
+  width: 26.3rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 53.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-25-gXf {
+  width: 26.3rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 65.8rem;
+  top: 53.6rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rectangle-27-X2V {
+  width: 26.3rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 114.9rem;
+  top: 53.6rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .line-90-jPT {
+  width: 18.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 46.3rem;
+  background-color: #000000;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .line-91-ou7 {
+  width: 18.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 72.8rem;
+  top: 46.4rem;
+  background-color: #000000;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .line-92-hUh {
+  width: 18.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 121.9rem;
+  top: 46.5rem;
+  background-color: #000000;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .dies-natalis-ke-x-fakultas-informatika-dan-teknik-elektro-it-del-ANH {
+  width: 23.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 17.1rem;
+  top: 54rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .mahasiswa-it-del-mengikuti-retreat-untuk-meningkatkan-karakter-3m-martuhanmarrohamarbisuk-BYH {
+  width: 23.7rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 66.6rem;
+  top: 54.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .rapat-koordinasi-keluarga-mahasiswa-organisasi-it-del-periode-2023-2024-LZb {
+  width: 24.1rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 54.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .selengkapnya-jrd {
+  width: 8.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 32.1rem;
+  top: 63rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .selengkapnya-wxh {
+  width: 8.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 81.6rem;
+  top: 63.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .selengkapnya-zRB {
+  width: 8.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 131.1rem;
+  top: 63.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .line-93-odX {
+  width: 10rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 32.1rem;
+  top: 65rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .line-94-6Mj {
+  width: 10rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 81.2rem;
+  top: 65.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-tswj-k7f .line-95-nkM {
+  width: 10rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 130.5rem;
+  top: 65.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP {
+  width: 100%;
+  height: 22.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm {
+  width: 137rem;
+  height: 13rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 2.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .rectangle-18-Q9T {
+  margin-right: 0.6rem;
+  width: 11.9rem;
+  height: 13rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-ijbo-rGM {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.9rem 0.8rem 0.8rem;
+  width: 26.3rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-ijbo-rGM .ditenun-berikan-pelatihan-subsektor-kriya-G5B {
+  margin: 0rem 1rem 5.8rem 0rem;
+  max-width: 23.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-ijbo-rGM .selengkapnya-tcM {
+  margin: 0rem 0.9rem 0.1rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-ijbo-rGM .line-96-Wtd {
+  width: 10rem;
+  height: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .rectangle-19-9gh {
+  margin-right: 0.9rem;
+  width: 11.9rem;
+  height: 13rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-vbwb-1U1 {
+  margin-right: 10.2rem;
+  box-sizing: border-box;
+  padding: 0.6rem 0.9rem 1.4rem 0.8rem;
+  width: 26.3rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-vbwb-1U1 .evaluasi-kurikulum-program-studi-manajemen-rekayasa-ems {
+  margin: 0rem 3.3rem 4.9rem 0rem;
+  max-width: 21.3rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-vbwb-1U1 .selengkapnya-685 {
+  margin: 0rem 0.3rem 0.2rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-vbwb-1U1 .line-97-Jjw {
+  width: 10rem;
+  height: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .rectangle-21-k69 {
+  margin-right: 0.6rem;
+  width: 11.9rem;
+  height: 13rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-tifx-noX {
+  box-sizing: border-box;
+  padding: 0.5rem 0.6rem 0.9rem 0.5rem;
+  width: 26.3rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-tifx-noX .monitoring-dan-evaluasi-monev-internal-program-matching-fund-mf-vokasi-tahun-2023-S7P {
+  margin: 0rem 1.9rem 3.1rem 0rem;
+  max-width: 23.3rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-tifx-noX .selengkapnya-Rzu {
+  margin: 0rem 0.5rem 0.7rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-uxvk-wWm .auto-group-tifx-noX .line-98-3Fb {
+  width: 10rem;
+  height: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-x4yb-GPF {
+  width: 136.461rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.75rem;
+  top: 16.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-x4yb-GPF .berita-terkini-lainnya-iFF {
+  margin-right: 17.25rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-x4yb-GPF .mingcute-arrow-up-fill-8Zs {
+  margin-right: 11.439rem;
+  width: 2.411rem;
+  height: 2.411rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-x4yb-GPF .kegiatan-lainnya-Cpd {
+  margin-right: 21.25rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-x4yb-GPF .mingcute-arrow-up-fill-34Z {
+  margin-right: 10.689rem;
+  width: 2.411rem;
+  height: 2.411rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-x4yb-GPF .auto-group-tvp1-Knm {
+  box-sizing: border-box;
+  padding-left: 0.55rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-bottom: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-x4yb-GPF .auto-group-tvp1-Knm .berita-spmb-2SH {
+  margin-right: 25.35rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .auto-group-x4yb-GPF .auto-group-tvp1-Knm .mingcute-arrow-up-fill-485 {
+  width: 2.411rem;
+  height: 2.411rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .line-6-ueV {
+  width: 38.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 19.4rem;
+  background-color: #000000;
+}
+.wireframe-home--Tvd .auto-group-bckm-3RP .line-8-mgh {
+  width: 38.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 53.1rem;
+  top: 19.5rem;
+  background-color: #000000;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo {
+  width: 100%;
+  height: 67.6rem;
+  position: relative;
+  background-color: #8b77a6;
+  flex-shrink: 0;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .vector-dcR {
+  width: 2.4021rem;
+  height: 1.5553rem;
+  position: absolute;
+  left: 89.3rem;
+  top: 11.9203rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .vector-gKo {
+  width: 2.4021rem;
+  height: 1.5553rem;
+  position: absolute;
+  left: 40.5rem;
+  top: 11.9203rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .vector-Z8h {
+  width: 2.4021rem;
+  height: 1.5553rem;
+  position: absolute;
+  left: 138.7rem;
+  top: 11.9203rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .rectangle-29-33s {
+  width: 136.5rem;
+  height: 51.5rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 12.2rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .rectangle-30-5FT {
+  width: 100.3rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 21.4rem;
+  top: 4rem;
+  background-color: #8b77a6;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .rectangle-31-k6h {
+  width: 28.6rem;
+  height: 15.4rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 2.6rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .rectangle-32-dAV {
+  width: 28.6rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 57.4rem;
+  top: 2.6rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .rectangle-33-6pm {
+  width: 28.6rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 90.5rem;
+  top: 2.6rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .fakultas-4v1 {
+  width: 16.1rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 30.95rem;
+  top: 13.9rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .program-studi-Cuj {
+  width: 25.5rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 58.75rem;
+  top: 13.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .mitra-fgq {
+  width: 14.8rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 97.4rem;
+  top: 13.8rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .rectangle-34-Q29 {
+  width: 41.5rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 25rem;
+  background-color: #ffffff;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .rectangle-35-ex5 {
+  width: 41.5rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 52.1rem;
+  top: 25rem;
+  background-color: #ffffff;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .rectangle-36-jTj {
+  width: 41.5rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 96.6rem;
+  top: 25rem;
+  background-color: #ffffff;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .rectangle-95-zPf {
+  width: 41.5rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 96.6rem;
+  top: 25rem;
+  background-color: #ffffff;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .depan-gerbang-institut-teknologi-del-sitoluama-kec-balige-toba-sumatera-utara-22381-qv5 {
+  width: 38rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 98.4rem;
+  top: 34.7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .testimoni-fakta-dan-angka-del-inspirasi-selangkah-lebih-maju-dosen-it-del-staff-it-del-penerimaan-mahasiswa-baru-2Ds {
+  width: 29rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 9.7rem;
+  top: 25.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .lppm-mitra-kerja-sama-dengan-it-del-koperasi-pusat-bantuan-it-del-satutata-lowongan-kerja-LNy {
+  width: 26.1rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 25.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Leelawadee, 'Source Sans Pro';
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .ph-student-fill-i8d {
+  width: 11.3751rem;
+  height: 9.6922rem;
+  position: absolute;
+  left: 33.4125rem;
+  top: 3.2625rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .bxs-book-wGH {
+  width: 7.5rem;
+  height: 8.3333rem;
+  position: absolute;
+  left: 67.75rem;
+  top: 4.1333rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home--Tvd .auto-group-cjyf-DHo .ri-shake-hands-fill-ctD {
+  width: 9.8172rem;
+  height: 9.2124rem;
+  position: absolute;
+  left: 100.4333rem;
+  top: 4.0073rem;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <link rel="icon" href="/favicon.ico" />
+  <link rel="icon" href="./assets/img/logodel.png">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#000000" />
   <title>Fasilitas</title>
@@ -11,8 +11,55 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400%2C700"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700"/>
   <link rel="stylesheet" href="./stylesfasilitas/fasilitas.css"/>
+  <style>
+    /* Style untuk pop-up */
+    .popup {
+      display: none;
+      position: absolute;
+      top: 20px; /* Sesuaikan posisi vertikal popup */
+      left: 20px; /* Sesuaikan posisi horizontal popup */
+      z-index: 999; /* Atur z-index agar lebih tinggi daripada video */
+      background: rgba(255, 255, 255, 0.0); /* rgba untuk membuat transparansi */
+      padding: 20px;
+      border: 1px solid #ccc;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      width: 1300px; /* Atur lebar popup */
+      height: 20px; /* Atur tinggi popup */
+    }
+
+
+
+  </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <script>
+    $(document).ready(function(){
+      $('.auto-group-pchq-ocH').click(function(){
+        // Menggunakan AJAX untuk mengambil konten dari file HTML lain
+        $.ajax({
+          url: 'humburger.html', // Ganti dengan nama file HTML yang ingin kamu tampilkan
+          dataType: 'html',
+          success: function(response) {
+            // Menampilkan konten dalam pop-up saat berhasil memuat
+            $('.popup').html(response);
+            $('.popup').fadeIn();
+          }
+        });
+      });
+
+      // Menutup pop-up saat diklik di luar pop-up
+      $(document).mouseup(function(e) {
+        var popup = $('.popup');
+        if (!popup.is(e.target) && popup.has(e.target).length === 0) {
+          popup.fadeOut();
+        }
+      });
+    });
+  </script>
+
 </head>
 <body>
+  <div class="popup"></div>
 <div class="wireframe-fasilitas-xZj">
   <div class="auto-group-eshd-mn5">
     <div class="auto-group-pchq-ocH">
@@ -195,7 +242,7 @@
             <img class="mingcute-arrow-up-fill-ccd" src="./assetsfasilitas/mingcute-arrow-up-fill-LJy.png"/>
             <div class="rectangle-83-WT7">
             </div>
-            <p class="kantin-politeknik-informatika-del-menyuguhkan-menu-bergizi-dan-sehat-untuk-mahasiswa-i-dengan-standar-gizi-yang-terjaga-mewajibkan-mereka-untuk-makan-tiga-kali-sehari-di-waktu-yang-telah-ditentukan-dalam-jam-makan-yang-terjadwal-tata-cara-makan-yang-baik-diajarkan-dengan-pakaian-rapi-etika-table-manner-dan-penggunaan-peralatan-makan-yang-benar-sementara-itu-it-del-shop-juga-menyediakan-kebutuhan-mahasiswa-seperti-alat-tulis-kebutuhan-mandi-aksesori-dan-makanan-ringan-dengan-harga-terjangkau-beroperasi-pada-jam-yang-ditentukan-memberikan-alternatif-bagi-mahasiswa-di-luar-jam-makan-kantin-cFF">Kantin Politeknik Informatika Del menyuguhkan menu bergizi dan sehat untuk mahasiswa/i dengan standar gizi yang terjaga, mewajibkan mereka untuk makan tiga kali sehari di waktu yang telah ditentukan. Dalam jam makan yang terjadwal, tata cara makan yang baik diajarkan dengan pakaian rapi, etika table manner, dan penggunaan peralatan makan yang benar. Sementara itu, IT Del Shop juga menyediakan kebutuhan mahasiswa seperti alat tulis, kebutuhan mandi, aksesori, dan makanan ringan dengan harga terjangkau, beroperasi pada jam yang ditentukan, memberikan alternatif bagi mahasiswa di luar jam makan kantin.</p>
+            <p class="kantin-politeknik-informatika-del-menyuguhkan-menu-bergizi-dan-sehat-untuk-mahasiswa-i-dengan-standar-gizi-yang-terjaga-mewajibkan-mereka-untuk-makan-tiga-kali-sehari-di-waktu-yang-telah-ditentukan-dalam-jam-makan-yang-terjadwal-tata-cara-makan-yang-baik-diajarkan-dengan-pakaian-rapi-etika-table-manner-dan-penggunaan-peralatan-makan-yang-benar-sementara-itu-it-del-shop-juga-menyediakan-kebutuhan-mahasiswa-seperti-alat-tulis-kebutuhan-mandi-aksesori-dan-makanan-ringan-dengan-harga-terjangkau-beroperasi-pada-jam-yang-ditentukan-memberikan-alternatif-bagi-mahasiswa-di-luar-jam-makan-kantin-cFF">Kantin Institut Teknologi Del menyuguhkan menu bergizi dan sehat untuk mahasiswa/i dengan standar gizi yang terjaga, mewajibkan mereka untuk makan tiga kali sehari di waktu yang telah ditentukan. Dalam jam makan yang terjadwal, tata cara makan yang baik diajarkan dengan pakaian rapi, etika table manner, dan penggunaan peralatan makan yang benar. Sementara itu, IT Del Shop juga menyediakan kebutuhan mahasiswa seperti alat tulis, kebutuhan mandi, aksesori, dan makanan ringan dengan harga terjangkau, beroperasi pada jam yang ditentukan, memberikan alternatif bagi mahasiswa di luar jam makan kantin.</p>
             <p class="kantin-Uwf">Kantin</p>
             <div class="rectangle-85-Q4d">
             </div>
@@ -296,7 +343,7 @@
             <img class="mingcute-arrow-up-fill-K2M" src="./assetsfasilitas/mingcute-arrow-up-fill-GNy.png"/>
             <div class="rectangle-84-S6y">
             </div>
-            <p class="perpustakaan-politeknik-informatika-del-pi-del-yang-kemudian-berubah-nama-menjadi-perpustakaan-institut-teknologi-del-seiring-perubahan-status-menjadi-institut-berdiri-sejak-9-januari-2002-dengan-sistem-pelayanan-terbuka-fokus-utamanya-adalah-fungsi-pendidikan-dengan-pengadaan-koleksi-dan-pengembangan-minat-baca-internal-dan-eksternal-institut-sebagai-bagian-dari-upaya-meningkatkan-minat-baca-dalam-pencapaian-visi-sebagai-pusat-informasi-terkemuka-perpustakaan-memiliki-misi-yang-mencakup-penyediaan-layanan-pustaka-yang-mendukung-program-akademik-dan-non-akademik-pelayanan-informasi-untuk-seluruh-civitas-akademika-it-del-dan-masyarakat-umum-peningkatan-efisiensi-diseminasi-koleksi-serta-perluasan-keragaman-koleksi-guna-meningkatkan-kualitas-layanan-AHs">Perpustakaan Politeknik Informatika Del (PI Del), yang kemudian berubah nama menjadi Perpustakaan Institut Teknologi Del seiring perubahan status menjadi Institut, berdiri sejak 9 Januari 2002 dengan sistem pelayanan terbuka. Fokus utamanya adalah fungsi pendidikan dengan pengadaan koleksi dan pengembangan minat baca internal dan eksternal institut sebagai bagian dari upaya meningkatkan minat baca. Dalam pencapaian visi sebagai pusat informasi terkemuka, perpustakaan memiliki misi yang mencakup penyediaan layanan pustaka yang mendukung program akademik dan non-akademik, pelayanan informasi untuk seluruh civitas akademika IT Del dan masyarakat umum, peningkatan efisiensi diseminasi koleksi, serta perluasan keragaman koleksi guna meningkatkan kualitas layanan.</p>
+            <p class="perpustakaan-politeknik-informatika-del-pi-del-yang-kemudian-berubah-nama-menjadi-perpustakaan-institut-teknologi-del-seiring-perubahan-status-menjadi-institut-berdiri-sejak-9-januari-2002-dengan-sistem-pelayanan-terbuka-fokus-utamanya-adalah-fungsi-pendidikan-dengan-pengadaan-koleksi-dan-pengembangan-minat-baca-internal-dan-eksternal-institut-sebagai-bagian-dari-upaya-meningkatkan-minat-baca-dalam-pencapaian-visi-sebagai-pusat-informasi-terkemuka-perpustakaan-memiliki-misi-yang-mencakup-penyediaan-layanan-pustaka-yang-mendukung-program-akademik-dan-non-akademik-pelayanan-informasi-untuk-seluruh-civitas-akademika-it-del-dan-masyarakat-umum-peningkatan-efisiensi-diseminasi-koleksi-serta-perluasan-keragaman-koleksi-guna-meningkatkan-kualitas-layanan-AHs">Perpustakaan Institut Teknologi Del, yang kemudian berubah nama menjadi Perpustakaan Institut Teknologi Del seiring perubahan status menjadi Institut, berdiri sejak 9 Januari 2002 dengan sistem pelayanan terbuka. Fokus utamanya adalah fungsi pendidikan dengan pengadaan koleksi dan pengembangan minat baca internal dan eksternal institut sebagai bagian dari upaya meningkatkan minat baca. Dalam pencapaian visi sebagai pusat informasi terkemuka, perpustakaan memiliki misi yang mencakup penyediaan layanan pustaka yang mendukung program akademik dan non-akademik, pelayanan informasi untuk seluruh civitas akademika IT Del dan masyarakat umum, peningkatan efisiensi diseminasi koleksi, serta perluasan keragaman koleksi guna meningkatkan kualitas layanan.</p>
             <p class="perpustakaan-BMP">Perpustakaan</p>
             <div class="rectangle-86-VN5">
             </div>

@@ -4,25 +4,78 @@
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
+    <link rel="icon" href="./assets/img/logodel.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Pengunguman</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Leelawadee:wght@400;700&display=swap" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400&display=swap" />
     <link rel="stylesheet" href="pengunguman.css" />
+    <style>
+      .img-4 i {
+    font-size: 45px;
+}
+
+      /* Style untuk pop-up */
+      .popup {
+        display: none;
+        position: absolute;
+        top: 20px; /* Sesuaikan posisi vertikal popup */
+        left: 20px; /* Sesuaikan posisi horizontal popup */
+        z-index: 999; /* Atur z-index agar lebih tinggi daripada video */
+        background: rgba(255, 255, 255, 0.0); /* rgba untuk membuat transparansi */
+        padding: 20px;
+        border: 1px solid #ccc;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 1300px; /* Atur lebar popup */
+        height: 20px; /* Atur tinggi popup */
+      }
+  
+  
+  
+    </style>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  
+    <script>
+      $(document).ready(function(){
+        $('.img1').click(function(){
+          // Menggunakan AJAX untuk mengambil konten dari file HTML lain
+          $.ajax({
+            url: 'humburger.html', // Ganti dengan nama file HTML yang ingin kamu tampilkan
+            dataType: 'html',
+            success: function(response) {
+              // Menampilkan konten dalam pop-up saat berhasil memuat
+              $('.popup').html(response);
+              $('.popup').fadeIn();
+            }
+          });
+        });
+  
+        // Menutup pop-up saat diklik di luar pop-up
+        $(document).mouseup(function(e) {
+          var popup = $('.popup');
+          if (!popup.is(e.target) && popup.has(e.target).length === 0) {
+            popup.fadeOut();
+          }
+        });
+      });
+    </script>  
   </head>
   <body>
+    <div class="popup"></div>
     <div class="main-container">
       <div class="wrapper">
         <div class="img">
             <img src="/assets/img/Institut Teknologi Del.png" width="100px" alt="">
         </div>
+        <div class="img1">
+          <img src="./assetsfasilitas/humburger.png" width="100px" alt="">
+      </div>
         <div class="img-2">
-            <i class="fab fa-facebook-square social-icon" style="color: #0004ff; font-size: 30px;"></i>
+            <i class="fab fa-facebook-square social-icon" style="color: #0004ff; font-size: 55px;"></i>
         </div>
         <div class="img-3">
-            <i class="fab fa-linkedin" style="color: #1664c4;font-size: 30px;"></i>
+            <i class="fab fa-linkedin" style="color: #1664c4;font-size: 55px;"></i>
         </div>
         <div class="img-4">
             <i class="fas fa-search"></i>
@@ -225,7 +278,7 @@
         </div>
       </div>
       <div class="pic-d">
-        <i class="fab fa-instagram social-icon" style="color: #E1306C; font-size: 30px;"></i>
+        <i class="fab fa-instagram social-icon" style="color: #E1306C; font-size: 55px;"></i>
 
       </div>
       <div class="box-5">

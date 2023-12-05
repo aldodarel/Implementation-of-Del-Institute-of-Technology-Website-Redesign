@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <link rel="icon" href="/favicon.ico" />
+  <link rel="icon" href="./assets/img/logodel.png">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#000000" />
   <title>Program Pendidikan</title>
@@ -11,8 +11,56 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Franklin%3A400"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400%2C700"/>
   <link rel="stylesheet" href="./programpendidikan.css"/>
+  <style>
+
+    /* Style untuk pop-up */
+    .popup {
+      display: none;
+      position: absolute;
+      top: 20px; /* Sesuaikan posisi vertikal popup */
+      left: 20px; /* Sesuaikan posisi horizontal popup */
+      z-index: 999; /* Atur z-index agar lebih tinggi daripada video */
+      background: rgba(255, 255, 255, 0.0); /* rgba untuk membuat transparansi */
+      padding: 20px;
+      border: 1px solid #ccc;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      width: 1300px; /* Atur lebar popup */
+      height: 20px; /* Atur tinggi popup */
+    }
+
+
+
+  </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <script>
+    $(document).ready(function(){
+      $('.auto-group-gkms-3nM').click(function(){
+        // Menggunakan AJAX untuk mengambil konten dari file HTML lain
+        $.ajax({
+          url: 'humburger.html', // Ganti dengan nama file HTML yang ingin kamu tampilkan
+          dataType: 'html',
+          success: function(response) {
+            // Menampilkan konten dalam pop-up saat berhasil memuat
+            $('.popup').html(response);
+            $('.popup').fadeIn();
+          }
+        });
+      });
+
+      // Menutup pop-up saat diklik di luar pop-up
+      $(document).mouseup(function(e) {
+        var popup = $('.popup');
+        if (!popup.is(e.target) && popup.has(e.target).length === 0) {
+          popup.fadeOut();
+        }
+      });
+    });
+  </script>  
+
 </head>
 <body>
+  <div class="popup"></div>
 <div class="wireframe-level-4-eZs">
   <div class="auto-group-q6oo-9uw">
     <div class="auto-group-gkms-3nM">
